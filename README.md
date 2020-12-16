@@ -9,3 +9,5 @@
 Простая анимация перехода
 
 Здесь работает без display: none
+
+https://limonbird.github.io/SliderWithActiveInTheMiddleAndEaseAnimation/
