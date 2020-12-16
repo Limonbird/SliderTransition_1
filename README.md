@@ -1,8 +1,5 @@
 # SliderWithActiveInTheMiddleAndEaseAnimation
 
-!!! Доработать кнопку назад, забыла про нее !!!
-
-
 Активный слайд всегда по центру
 
 Начинается со 2го слайда
@@ -12,5 +9,9 @@
 Простая анимация перехода
 
 Здесь работает без display: none
+
+!!! Назад анимация кривая.
+
+*** Попробовать установить анимацию в методе нажатия по кнопкам
 
 https://limonbird.github.io/SliderWithActiveInTheMiddleAndEaseAnimation/
