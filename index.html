@@ -60,6 +60,8 @@
             this.counter = this.slidesList.length;
           }
         }
+        let last = this.slidesList.pop();
+        this.slidesList.unshift(last);
       },
     },
   });
