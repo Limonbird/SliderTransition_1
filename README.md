@@ -1,3 +1,5 @@
+https://limonbird.github.io/SliderTransition_1/
+
 Активный слайд всегда по центру
 
 Начинается со 2го слайда
@@ -11,5 +13,3 @@
 !!! Назад анимация кривая.
 
 *** Попробовать установить анимацию в методе нажатия по кнопкам
-
-https://limonbird.github.io/SliderWithActiveInTheMiddleAndEaseAnimation/
