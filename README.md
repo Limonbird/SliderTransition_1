@@ -1,5 +1,3 @@
-# SliderWithActiveInTheMiddleAndEaseAnimation
-
 Активный слайд всегда по центру
 
 Начинается со 2го слайда
